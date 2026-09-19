@@ -1,0 +1,82 @@
+{
+  "name": "Maikon Caldeira - Advocacia Digital",
+  "short_name": "MC Advocacia",
+  "description": "Sistema completo de ferramentas jurídicas e produtividade",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a0a0a",
+  "theme_color": "#5d5e53",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Playground",
+      "short_name": "Playground",
+      "description": "Crie e exporte scripts",
+      "url": "./1.codigo.html",
+      "icons": [
+        {
+          "src": "./icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Plano",
+      "short_name": "Plano",
+      "description": "Limpeza de processos",
+      "url": "./2.codigo.html",
+      "icons": [
+        {
+          "src": "./icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Chat IA",
+      "short_name": "Chat IA",
+      "description": "Assistente inteligente",
+      "url": "./3.codigo.html",
+      "icons": [
+        {
+          "src": "./icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Chat e Play",
+      "short_name": "Chat e Play",
+      "description": "Análise de projetos",
+      "url": "./4.codigo.html",
+      "icons": [
+        {
+          "src": "./icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "productivity",
+    "utilities",
+    "business"
+  ],
+  "lang": "pt-BR",
+  "dir": "ltr"
+}
